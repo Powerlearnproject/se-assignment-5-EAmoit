@@ -1,0 +1,60 @@
+Questions:
+
+1. Installation of VS Code:
+Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+
+One first needs to go to the web browser and search for code.visualstudio.com/download. one the web page select the one for windows. Downloading will automatically start and you'll be required to choose the location you need the download to be stored. In terms of prerequisite,one should check to see if there PC is which type of windows. Also the PC is running on 32bit or 64bit. once downloaded, you can run it as an administrator then follow the wizard step to install.
+
+2. First-time Setup:
+After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+
+Once VS code has been installed, you should make sure that on the file button that the program is on autosave to assist you with your work. Also on the extension, one needs to install relevant extensions that he/she might need to use during any programming. Also one should like there VS code with GitHub.
+
+3. User Interface Overview:
+Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+
+![alt text](<VS user interface.png>)
+
+Activity bar - Located on the far left side. Allows you to navigate between views and displays extra context-specific information, such as the number of outgoing changes when Git is enabled. You can modify the position of the Activity Bar.
+Side bar - Contains many views, such as the Explorer, to aid you in working on your project.
+Editor group - The main place for editing your files. You can have as many editors open side by side, both vertically and horizontally.
+Status bar - Details about the open project and the files you modify.
+
+4. Command Palette:
+What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+
+Command Palette - it provides you with many commands including keyboard shortcuts. it is achieved through using Ctrl+Shift+P
+
+5. Extensions in VS Code:
+Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+
+VS Code extensions let you to add languages, debuggers, and tools to your installation to help with your development workflow.
+The extension tab is located on the activity bar. once you click on it you are able to see different extension. you will be able to install the desired extension in regards to development needs. Some of the extensions include python, Dart, Flutter, MySQL Angular snippets and many more.
+
+6. Integrated Terminal:
+Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
+
+In order to support features like links and error detection, it offers integration with the editor. Like a standalone terminal, the integrated terminal can execute commands like mkdir and git.
+
+7. File and Folder Management:
+Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+
+Once you open the VS code, go to the activity bar on explorer, you be able to see the open editors which include files and folders that you are using on your project. you can also create and new file or folder there
+
+8. Settings and Preferences:
+Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+
+To open the Settings editor, navigate to File > Preferences > Settings
+
+9. Debugging in VS Code:
+Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
+
+![alt text](<VS debugging.png>)
+
+ VS Code's built-in debugger helps accelerate your edit, compile, and debug loop.
+
+
+10. Using Source Control:
+How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+
+An overview of the number of modifications you presently have in your repository is always displayed via the Source Control icon in the Activity Bar on the left. You can view the specifics of the changes made to your repository, including CHANGES, STAGED CHANGES, and MERGE CHANGES, by selecting the icon.
